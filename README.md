@@ -1,3 +1,2 @@
-# wxz-test
-# Gittest
-# newtest 1603161058
+#git@osc
+怎么还是没同步成功
